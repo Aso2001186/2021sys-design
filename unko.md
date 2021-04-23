@@ -7,6 +7,6 @@ if(体力　<= 20) then (true)
 :「宿屋に泊まる」;
 else
 :「頑張ってレベル上げる」;
-end
+endif
 @enduml
 ```
