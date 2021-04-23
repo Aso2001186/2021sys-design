@@ -1,5 +1,5 @@
 ```uml
 @startuml
-start -> 体力: Requst
+start -> 体力=10: 
 @enduml
 ```
