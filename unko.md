@@ -8,5 +8,6 @@ if(体力　<= 20) then (true)
 else
 :「頑張ってレベル上げる」;
 endif
+end
 @enduml
 ```
